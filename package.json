@@ -1,0 +1,6 @@
+{
+  "name": "test-installation-fix-1754287522442",
+  "scripts": {
+    "build": "echo \"Static build\""
+  }
+}
